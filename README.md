@@ -23,24 +23,29 @@
 Dwse ena plithos arithmwn: 10
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 12  Arithmos: 32649B44
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 2   Arithmos: 00101001
         3. Systhma: 12  Arithmos: 32649B44
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 2   Arithmos: 00101001
         3. Systhma: 12  Arithmos: 32649B44
         4. Systhma: 12  Arithmos: A4726993
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 2   Arithmos: 00101001
         3. Systhma: 12  Arithmos: 32649B44
@@ -48,6 +53,7 @@ Dwse ena plithos arithmwn: 10
         5. Systhma: 12  Arithmos: A4726993
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 16  Arithmos: 905F0B37
         3. Systhma: 2   Arithmos: 00101001
@@ -56,6 +62,7 @@ Dwse ena plithos arithmwn: 10
         6. Systhma: 12  Arithmos: A4726993
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 16  Arithmos: 905F0B37
         3. Systhma: 2   Arithmos: 00101001
@@ -65,6 +72,7 @@ Dwse ena plithos arithmwn: 10
         7. Systhma: 12  Arithmos: A4726993
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 16  Arithmos: 905F0B37
         3. Systhma: 2   Arithmos: 00101001
@@ -75,6 +83,7 @@ Dwse ena plithos arithmwn: 10
         8. Systhma: 12  Arithmos: A4726993
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 16  Arithmos: 905F0B37
         3. Systhma: 2   Arithmos: 00101001
@@ -86,6 +95,7 @@ Dwse ena plithos arithmwn: 10
         9. Systhma: 12  Arithmos: A4726993
 
 -------------- Arithmoi --------------
+
         1. Systhma: 16  Arithmos: 832C7DBF
         2. Systhma: 16  Arithmos: 905F0B37
         3. Systhma: 2   Arithmos: 00101001
